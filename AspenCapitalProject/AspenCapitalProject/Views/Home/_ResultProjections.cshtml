@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Entities.ProjectionResponseDto>
+
+@if (Model.Any())
+{
+    <div class="container">
+        <table id="tblProducts" class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th scope="col">Projection</th>
+                    <th scope="col">Month/Year</th>
+                    <th scope="col">Activity</th>
+                    <th scope="col">Estimated</th>
+                    <th scope="col">Actual</th>
+                    <th scope="col">Estimated Balance</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Projection</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    @foreach (var headers in item.HeaderProjection)
+                    {
+                        <tr>
+                            <td></td>
+                            <td>@headers.MonthYear</td>
+                            <td>@headers.Activity</td>
+                            <td>@headers.Estimated</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        @foreach (var detail in headers.DetailProjections)
+                        {
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>@detail.Activity</td>
+                                <td>@detail.Estimated</td>
+                                <td>@detail.Actual</td>
+                                <td>@detail.EstimatedBalance</td>
+                            </tr>
+
+                        }
+                    }
+
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <h1>No records found</h1>
+}

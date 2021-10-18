@@ -1,0 +1,14 @@
+C:\DEV\Aspen-Sample\AspenCapitalProject\BsusinessLogic\bin\Debug\netcoreapp3.1\BsusinessLogic.deps.json
+C:\DEV\Aspen-Sample\AspenCapitalProject\BsusinessLogic\bin\Debug\netcoreapp3.1\BsusinessLogic.dll
+C:\DEV\Aspen-Sample\AspenCapitalProject\BsusinessLogic\bin\Debug\netcoreapp3.1\BsusinessLogic.pdb
+C:\DEV\Aspen-Sample\AspenCapitalProject\BsusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\DEV\Aspen-Sample\AspenCapitalProject\BsusinessLogic\bin\Debug\netcoreapp3.1\Entities.dll
+C:\DEV\Aspen-Sample\AspenCapitalProject\BsusinessLogic\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\DEV\Aspen-Sample\AspenCapitalProject\BsusinessLogic\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\DEV\Aspen-Sample\AspenCapitalProject\BsusinessLogic\obj\Debug\netcoreapp3.1\BsusinessLogic.csprojAssemblyReference.cache
+C:\DEV\Aspen-Sample\AspenCapitalProject\BsusinessLogic\obj\Debug\netcoreapp3.1\BsusinessLogic.AssemblyInfoInputs.cache
+C:\DEV\Aspen-Sample\AspenCapitalProject\BsusinessLogic\obj\Debug\netcoreapp3.1\BsusinessLogic.AssemblyInfo.cs
+C:\DEV\Aspen-Sample\AspenCapitalProject\BsusinessLogic\obj\Debug\netcoreapp3.1\BsusinessLogic.csproj.CoreCompileInputs.cache
+C:\DEV\Aspen-Sample\AspenCapitalProject\BsusinessLogic\obj\Debug\netcoreapp3.1\BsusinessLogic.csproj.CopyComplete
+C:\DEV\Aspen-Sample\AspenCapitalProject\BsusinessLogic\obj\Debug\netcoreapp3.1\BsusinessLogic.dll
+C:\DEV\Aspen-Sample\AspenCapitalProject\BsusinessLogic\obj\Debug\netcoreapp3.1\BsusinessLogic.pdb
