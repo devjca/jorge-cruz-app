@@ -7,3 +7,6 @@
 #3. Find ConnectionStrings section
 #4. In AspenConnection variable, set the correct values  related to DB-Server connection 
 #5. Build Solution
+#6. I´ve used a Microsoft-SQL as DB engine.
+#7. In your DB ensure that you have: Actuals and Projections Tables
+#Importan: If for some reason the connection with your DB fail, please create a AspenCapital DB, and add the tables for step 7:
